@@ -11,7 +11,8 @@ To launch Bot input your BotName and BotToken registered from BotFather in dispa
 
 ### Project architecture
 
-
+Telegram Message -> Dispatcher -> RabbitMQ -> Node ->
+-> RabbitMQ -> Dispatcher -> Telegram Message
 
 
 ### Plans
