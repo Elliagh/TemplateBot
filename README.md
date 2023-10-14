@@ -3,7 +3,6 @@ Unstable version based on TelegramLongPollingBot
 
 ```
    For old version chekout branch "old"
-
 ```
 
 ### How to launch
@@ -19,5 +18,4 @@ To launch Bot input your BotName and BotToken registered from BotFather in dispa
 
 ```
    Add registation from email, templates for menu, keyboard
-
 ```
